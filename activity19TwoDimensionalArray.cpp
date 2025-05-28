@@ -3,8 +3,9 @@
 //  C++Projects
 //
 //  Created by Aqila Nasiry on 4/1/25.
+//activity 19: flip the columns as outer loop and rows as inner loop
 
-#include "activity19TwoDimensionalArray.hpp"
+
 #include <iostream>
 using namespace std;
 const int MAX_ROWS = 6;

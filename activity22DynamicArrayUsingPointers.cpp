@@ -38,20 +38,7 @@ int main() {
 
 
 
-#include <iostream>
-using namespace std;
 
-const int ARRAY_SIZE = 10;
-
-double* reverseArray(double* firstArray, int size) {
-    // Dynamically allocate memory for the reversed array
-    double* reversedArray = new double[size];
-    for (int i = 0; i < size; i++) {
-        reversedArray[i] = firstArray[size - 1 - i];
-    }
-    delete[] firstArray;
-    return reversedArray;
-}
 
 
 

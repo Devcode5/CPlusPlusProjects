@@ -1,8 +1,7 @@
 
 
 //Keep the array compact
-//helpfull for assignment 9
-////  Created by Aqila Nasiry on 4/7/25.
+//  Created by Aqila Nasiry on 4/7/25.
 //
 #include <iostream>
 #include <string>
